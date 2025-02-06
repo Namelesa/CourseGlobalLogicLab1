@@ -1,0 +1,1 @@
+# CourseGlobalLogicLab1
